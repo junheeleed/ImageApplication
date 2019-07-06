@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Image Application</string>
+    <string name="show_overwrite_image_dialog_message">It already has been saved. check it on Gallery App.</string>
+    <string name="image_saved_message">saving the image is saved</string>
+    <string name="image_failed_message">saving the image is failed.</string>
+    <string name="percentage_symbol">%</string>
+    <string name="zero">0</string>
+    <string name="init_saving_image_text">0%</string>
+    <string name="main_images_load_succcessd">loading is successed.</string>
+    <string name="main_images_load_failed">loading is failed. check internet connection state.</string>
+</resources>
